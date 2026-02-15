@@ -1,4 +1,6 @@
-## Fachinformatiker für Systemintegration - Schwerpunkt Linux Administration
+# Wer bin ich & Was mache ich?
+Mein Name ist Leon Krömker und seit 2026 Ausgebildeter Fachinformatiker für Systemintegration, mir macht es spaß Projekte durchzuführen die mich fordern und mich weiterbilden besonders in einer Linux Umgebung.
+
 
 <!--
 **Leon-kroemker/Leon-kroemker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
