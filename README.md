@@ -1,6 +1,11 @@
 # Wer bin ich & Was mache ich?
 Mein Name ist Leon Krömker und seit 2026 Ausgebildeter Fachinformatiker für Systemintegration, mir macht es spaß Projekte durchzuführen die mich fordern und mich weiterbilden besonders in einer Linux Umgebung.
 
+-**Was mir Spaß macht:**
+-**Mein Fokus:** 
+
+### Was ich in Zukunft erreichen will?
+Ich möchte meine Linux Kenntnisse erweitern und mich auf die Administration von Linux-Infrstrukturen Konzentrieren
 
 <!--
 **Leon-kroemker/Leon-kroemker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
