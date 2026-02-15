@@ -1,4 +1,4 @@
-# Wer bin ich & Was mache ich?
+### Wer bin ich & Was mache ich?
 Mein Name ist Leon Krömker und seit 2026 Ausgebildeter Fachinformatiker für Systemintegration, mir macht es spaß Projekte durchzuführen die mich fordern und mich weiterbilden besonders in einer Linux Umgebung.
 
 -**Was mir Spaß macht:**
